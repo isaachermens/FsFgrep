@@ -1,0 +1,701 @@
+Ch. 3: The Law of Demand 1/9/13
+	Demand curve: downward sloping curve
+	A change in quantity demanded = up or down the demand curve
+		Results only due to changes in price
+	Changes in demand result in shifts of the demand curve to the left of right
+		Results from changes in: income, preferences, prices of related goods, number of buyers, expectations of future price
+	Related Goods: complementary & substitute goods
+		Demand for complementary goods increases and decreases together (directly related)
+		Demand for substitute goods are inversely related
+			Virtually every product sold in America has many substitutes, results in downward competitive pressure and improves standard of living
+
+Ch. 4: Price Ceilings & Floors 1/9/13
+	Price ceiings
+		Only effective when placed below the equilibrium price
+		Results in shortages; usually damaging for all members of the economy
+			Less profit for producers and additional non-financial costs for consumers.
+	Price floors
+		Only effective when placed above the equilibrium price
+		Results in surpluses; can be damaging to the economy
+		
+Ch. 20: Elasticity 1/11/13
+	Price is among the primary tools that businesses have to maximize revenue
+	Elasticity is a quantification of how responsive individuals are to changes in price.
+	TV shopping advertisements often measure elasticity by observing consumers' reactions when prices are altered during a long commercial
+	The elasticity coefficient, or price elasticity of demand, is found by the midpoint formula
+			(change in quantity demanded / average quantity demanded) / (change in price / average price)
+			If a change in price from 10 to 12 resulted in a change in demand from 50 to 100, the formula would be:
+				(50 / 75) / (2 / 11)
+			Given an elasticity coefficient of 2, a 1% increase in price results in a 2% decrease in quantity demanded
+			Terms:
+				Inelastic: quantity demanded changes less than price (E < 1)
+				Elastic: quantity demanded changes more than price (E > 1)
+				Perfectly inelastic: Quantity demanded does not change as price changes (E ~= 0)
+				Perfectly elastic: Quantity demanded is extremely responsive to even small changes in price (E -> infinity)
+				Unit elastic: quantity demanded and price change at the same rate (E = 1) (uncommon in real world)
+			The flatter the demand curve, the more elastic the market (E increases with a decrease in slope)
+			Conversely, the steeper the demand curve, the less elastic the market (E decreases with an increase in slope)
+				A flat curve is perfectly elastic
+				A vertical curve is perfectly inelastic
+			Business decisions:
+				Price is the only factor over which businesses have complete control
+				Larger the elasticity coefficents result in a more competitive market and more price cutting
+					Cutting prices increases revenue
+					Note: higher elasticity coefficients usually mean a higher standard of living
+				Small elasticity coefficients cause companies to push prices as high as they believe they can get away with
+					Selling less product at higher prices results in higher revenue
+			Unit elasticity sometimes occurs in the textbook market
+			Agricultural products are close to perfect elasticity
+			The market for utilities (running water, electricity, etc) are perfectly inelastic
+			The market for illegal drugs is quite inelastic (users are addicted)
+				Drug busts/laws decrease the supply, thereby increasing the price demanded and increasing drug-related crimes
+	Price elasticity of demand along a straight line demand curve:
+		Mathematical bias at extreme ends of the demand curve
+			Along the high price, low quantity demanded end of the curve, a mathematical bias causes the elasticity coefficient to be large
+			Along the low price, high q.d. end of the curve, the same bias results in a low coefficient
+			Total revenue is maximized somewhere around the middle of the curve in most cases
+			This bias an be offset by a behavioral bias:
+				Airlines use small quantities of highly priced aluminum components (mathematically elastic bias, behaviorally inelastic)
+				Housewives use large quantities of inexpensive aluminum foil (mathematically inelastic, behaviorally elastic)
+	Why demand is elastic:
+		Sellers charge people different prices
+		This is due to substitutes
+			"If you want to be happy for the rest of your life, don't marry a pretty wife"; a pretty woman has more substitutes for you
+				and will place higher demands upon you, while a homely woman has fewer substitutes for you and will place fewer demands 
+			Businesses base their pricing on how many substitutes their customers have:
+				The travel industry charges business travellers more than tourists
+				Mechanics often charge women more
+Ch. 20 Part II 1/14/13
+	Determinants of price elasticity of demand:
+		Number of substitutes:
+			The more substitute products exist for your product, the higher its elasticity
+			Fewer substitutes -> lower elasticity
+			No direct control over your competitor's, but businesses attempt to provide unique features & convince consumers of their superiority
+			Consoles (Xbox, PS3, etc) are sold relatively cheaply in order to lock customers in to buying games for that console
+			Up front fees (monetary or otherwise) are designed to increase the cost of switching to a subsequent product/fee
+				Makes your product less elastic, allowing you to raise your prices.
+			The more specificially defined a product is, the more substitutes it has
+				More substitutes exist for a Ford Mustang than for cars in general.
+		Necessitites vs. Luxuries
+			Luxeries have a higher degree of elasticity
+				Easier to substitute for
+				Easier to live without (not needed to continue life)
+		% of consumer budget spent on good
+			Higher relative price -> higher elasticity
+			Products on which a consumer spends 10% of their budget demonstrate higher elasticity than products on which they spend 0.1%
+		Time
+			Elasticity will be higher in the long run than in the short term
+				Opportunity to change purchasing patterns, alter habits, find substitutes, etc.
+			Example: oil companies spike their prices and decrease them after some time has passed to remove the incentive for 
+				customers to purchase more efficient vehicles
+	Other elasticity concepts:
+		Cross elasticity of demand:
+			Measures how strongly an item is perceived as a substitute or complement for another
+			Ec = (% change in quantity demanded of one good) / (% change in price of another good)
+			Example: (% change in quantity demanded of Skippy) / (% change in price of Jif)
+			Ec < 0 -> The goods are complements (decrease in quantity demanded for one decreases demand for other)
+			Ec > 0 -> The goods are substitutes (decraese in quantity demanded for one increases demand for other)
+		Income elasticity of demand:
+			(% change in quantity demanded) / (% change in income)
+			Increase in income increases purchases of normal goods and decreases purchases of inferior goods
+			Decrease in income decreases purchases of normal goods and increases purchases of inferior goods
+			Poor countries have higher income of elasticity of food than wealthy countries.
+		Price elasticity of supply:
+			(change in quantity supplied / average quantity supplied) / (change in price / average price)
+			In a service & information based ecomony, supply is driven by demand and this measurement is less significant than the others
+	Taxes and Elasticity
+		Who pays the tax?
+			With a downward sloping demand curve and an upward sloping supply curve, the business and its consumers each pay a portion
+			of the tax.
+			If demand for a product is highly elastic (flat), business bears more of the tax burden
+			For a highly inelastic product, consumers pay a higher percentage of the tax.
+			In an elastic market, businesses lose a portion of their pricing power and have less ability to pass expensive to customers
+				It's difficult to tax powerful corporations without most of the burden landing on their customers.
+Ch. 21: Utility & Behavioral Economics 1/16/2013 & 1/18/2013
+	How do people make decisions with regard to purchasing products?
+	Utility is a measure of the satisfaction or benefit that results from the purchase of a good
+		Not really possible to measure, but how people assign it can be observed
+		As you consume more successive units of a product, marginal utility decreases
+		Cumulative total utility increases at a decreasing rate
+		Law of Marginal Utility:
+			Decreasing marginal utility causes consumers to stop purchasing a good once the ratio of marginal utility to price is insufficient
+				Can tell this is happening when you begin to debate purchases
+			Pricing strategies differ depending on whether or not consumers are able to stock up on a good or not(delayed utiity)
+			Marginal utility also depends on the use of the good
+				We use goods for their most valued purpose first, then address incrementally less necessary purposes.
+			The Law IS NOT a means for interpersonal utility comparisons (can't use it to compare between multiple individuals)
+			We look mainly at marginal utility when purchasing things or allocating our times
+		There are exceptions to the rule:
+			You get more utility from the 4th car you put on your car than the first 3
+		When our behaviors go too far, marginal utility can obtain negative values
+	The Diamond-Water Paradox:
+		Diamond's have high marginal utility but relatively low total utility
+		Water has low marginal utility but high total utility
+	Consumer Equilibrium & Demand
+		Consumer equilibrium is the point at which we maximize our total utility in terms of our scarce resources
+	Should the government provide the necessities of life freely?
+		Marginal utility dropping below price serves as a signal to stop consuming
+		If price were removed, people would consume past the point of efficiency and be inefficient
+		When financial cost is removed, it is replaced by other costs
+	Increased prices reallocate goods/resources to those who really need/want the product.
+	
+	There are some assumptions that people will behave rationally
+		This is often an unrealistic belief
+	Indifference curves: (not on test)
+		Consumers are willing to give up a larger quantity of a good that they are saturated with.
+		Maximize enjoyment from consumption of goods by finding the intersection of the budget constraint curve and the indifference curve
+	
+Ch. 22: Production & Costs 1/23/13
+	Invisible hand vs. visible hand
+		"Individuals in a market are led by an invisible hand to promote an outcome that was not their intention" - Adam Smith
+	Why do firms exist?
+		One theory, created by Alchian and Demsetz, is that people unite into firms in order to increase efficiency & productivity
+			Also leads to difficulties, such as shirking
+				The larger the group, the less harm the individual suffers as a result of shirking
+				Personnel, such as managers or monitors, must be added to promote efficient production.
+		Ronald Coase believed that firms exist to minimize the number of transactions that must occur & reduce their cost
+	Accounting side of things:
+		Profit = revenue - total cost
+		Owner's equity + investment - withdrawals + revenue - expenses = owner's equity (accounting formula)
+			Owner's equity = assets - liability
+			We mostly care about revenue and expenses, manager's have the most influence over these 2 factors
+		Two ways to maximize revenue, depending on elasticity
+			Inelastic demand: high price, low quantity
+			Elastic demand: low price, high quantity
+		Explicit costs = hard, financial costs. Things that you would write a check for, etc.
+		Implicit costs = the opportunity cost of running your business. If you give up a job as a lawyer to start a restaraunt, your lawyer's salary = implicit cost
+		AccountingProfit = TotalRevenue - ExplicitCosts
+		EconomicProfit = TotalRevenue - (ExplicitCosts - ImplicitCosts)
+			Normal profit occurs when economic profit is 0
+			Economic profit usually gravitates towards 0
+	Inputs
+		Fixed inputs are inputs that cannot be changed as production increases
+		Variable inputs can be changed as output changes
+		"Short run" refers to a period of time in which at least 1 input is fixed
+		"Long run" refers to a period of time in which no inputs are fixed
+	Production (short run):
+		Marginal Physical Product (MPP): the change in physical product produced by increasing variable inputs
+			first rises at an increasing rate (economies of scale)
+			then maximizes (what is the term for this? constent economies of scale?)
+			then continues rising at a decreasing rate, can also decrease (diseconomies of scale)
+		Average fixed costs dwindles to an insignificant amount at very high inputs
+			TFC is fixed so AFC decreases as output increases
+		Total variable cost increases as output increases
+			AVC is parabollic in shape (small slope)
+		Marginal cost curve is parabollic (small slope)
+		Marginal cost curve intersects with the AVC and ATC curves at their lowest points
+			Average-marginal rule: marginal cost curve pulls the AVC curve up or down
+	Sunk Cost:
+		A cost incurred in the past by a previous decision that cannot be recovered
+		According to economists, sunk costs should be ignored when making decisions
+		Ex. buying a movie ticket and finding out that you don't like the movie; you can't recover the sunk cost of the ticket
+	Production (long run):	
+		When SRATC begins to increase:
+			Expand fixed inputs, creating a new SRATC curve and pushing ATC down
+			OR
+			increase prices to keep ATC at a low point on the LRATC curve
+		Minimum efficient scale: lowest quantity minimum point on the LRATC
+		Federal Express did a very good job of balancing expansion & revenue by leasing airplanes while volumes were volatile
+			Once volume stabilized, they purchased the airplanes they had been leasing
+
+Ch. 23: Perfect Competition: 2/1/2013
+	Built on 4 assumptions:
+		There are many sellers and many buyers, none of which is large in comparison to the total
+		Sellers produce and sell a homogeneous product
+		Buyers and sellers have all relavent information regarding prices, quantities, quality, etc.
+		There is easy entry into and exit out of the market
+	Agriculture is one of the best examples
+		There are a huge number of farmers and many people who want food.
+		Relatively easy entry and exit when compared to many other industries
+		Farmers compete by pushing for greater efficiency/productivity rather than trying to control market share
+	Perfectly competitive firms are price takers
+		They have no individual ability to affect the market price
+		Market supply and demand curves are standard
+		Single firm demand curve is perfectly elastic
+		Businesses don't like being price takers - they lose their only element of control over their pricing structure
+		Perfect competition tends to cause firms to compete internally instead of with each other -- support each other
+		Firms seek to escape from perfect competition
+			The most common method is to break assumption number 2 by differentiating their product from their competitors'
+	Marginal Revenue
+		Marginal revenue is synonymous with the demand curve in a perfectly competitive market
+	Quantity of Output
+		Firms will increase output until marginal revenue == marginal cost
+		Profit maximization (per unit) occurs at the low point of the marginal cost curve
+		Absolute profit maximization occurs when MC=MR=P
+		Managers are typically evaluated based on total profit, not unit profit
+		When firms increase efficiency to increase output, it increases market supply thereby pushing price DOWN
+			This is why the government subsidizes agricultural products
+	Profit Maximization/Loss Minimization
+		If a firm is making a positive economic profit (P > ATC) at its maximum profit, 
+			other firms will be attracted to the market, pushing price down due to increased supply and returning economic profit to 0
+		If average variable cost will is > price, the firm will shut down in the short run
+		If P > ATC, firm will continue to produce in the short run
+		If P < ATC and P > AVC, the firm will continue to produce in the short run
+	Supply Curve
+		The marginal cost curve is the same as the individual supply curve
+	Perfect Competition in the Long Run
+		Economic Profit = 0
+		Firms are producing the quantity of output at which MC=MR=P
+		No firm has incentive to change its plant size to alter output
+			P=MC=SRATC=LRATC
+		Changes in demand temporarily increase price until more firms join the market:
+			In decreasing cost industry, final price will be lower than starting price
+			In constant cost industry, final price will be equal to starting price
+			In increasing cost industry, final price will be higher than starting price
+		Higher opportunity costs can off set higher profit.
+
+Ch. 24: Monopoly (2/8/2013)
+	Monopoly is the exact opposite of perfect competition:
+		A single produces controls the entire market
+		Business want to move towards monopoly, but
+			the government wants to prevent businesses from monopolizing and keep them closer to perfect competition.
+				Liberals care more about keeping businesses away from monopolies
+	Assumptions of monopoly:
+		A single seller
+		That seller produces a unique product
+		High barriers to entry in the market
+	Postal Service has a legal monopoly on first class mail, but they cannot set their prices without permission from the government
+	Governments allow utility companies to hold a natural monopoly because removing competition allows for extreme economies 
+		of scale to exist for the monopolistic firm
+	Exclusive ownership of a necessary resource:
+		ALCOA (Aluminum Company of America) at one point was the sole producer of aluminum in the U.S.
+		They owned nearly all boxite sources in the country, and therefore controlled the aluminum market
+	Government monopoly vs. market monopoly
+		Government monopoly has legal protection from the government
+	
+	Monopolists are price searchers
+		Pricing still demands strategy in a monopoly
+		Cutting prices increases quantity demandeds
+		Monopolies usually have extremely high fixed costs
+	For a monopolist, the marginal revenue curve lies below the demand curve
+		Start at the same point, MR falls behind Demand is quantity increases
+	The Profit Maximizing Price lies at the quantity where MR=MC
+		P>MC at that point
+	
+	Once an artist/writer etc. has completed a product, their MC for units sold is 0.
+		They also receive royalties as a percentage of total revenue
+	However, their publishing company has MC>0.
+	The artist would like prices to be lower so that more copies sell, but the publisher does not.
+	
+	Monopoly, Perfect Competition, & Consumer Surplus
+		In perfect competition, the quantity is produced where MC=P=MR
+		In monopoly, the (smaller) quantity is produced where MR=MR < P
+		Lower quantities are produced in a monopoly
+	Monopoly or nothing:
+		In some markets with high fixed costs and/or small numbers of consumers, a monopoly is the only financially viable option
+		If a monopoly does not exist, no producer will exist in the market
+	The Case Against Monopoly:
+		Deadweight Loss:
+			Monopoly produces fewer goods at higher prices than does perfect competition
+			The deadweight loss triangle is the area under the Demand curve and do the right of the monopoly quantity of production
+		Rent Seeking:
+			Firms seeking a monopoly spend a great deal of resources attempting to gain and maintain their monopoly
+				Political lobbies, campaign contributions, etc.
+			Individually intelligent, socially wasteful.
+	
+	Price Discrimination:
+		Allows monopolistic firms to increase profits by increasing marginal revenue
+		Gives a firm greater control over price
+		When lowering prices, you only lower prices for individuals for whom a drop in price will increase consumption
+		In order to discriminate, a firm must:
+			Be a price searcher
+			Be able to differentiate among customers
+			Be able to prevent arbitrage (buying at a certain price and reselling for a higher price)
+		Three types of price discrimination:
+			Perfect Price Discrimination (unit discrimination): Charge each consumer the maximum price they're willing to pay
+				P=MC=MR
+			Second degree discrimination (discrimination by quantity): Charge lower prices for higher quantities (& vice versa)
+				Marginal revenue pulls closer to price
+			Third degree discrimination (discrimination among markets/customers): Alternating price according to what the market is
+				Marginal revenue pulls closer to price
+				People with more free time are willing to clip coupons
+				Senior citizens and college students often receive decreased price rates
+
+Ch. 25: Monopolistic Competition, Market Competition, & Oligopoly
+	Monopolistic Competition:
+		Assumptions:
+			Many sellers and buyers
+			Each firm sells a slightly differentiated product (only difference between monopolistic and perfect competition)
+			Easy entry to and exit from the market
+		It is possible for a firm to have a positive economic profit, but that condition is unlikely to persist
+			Positive economic profit attracts other firms to the market
+			Each additional firm that enters the market causes other firms' demand curves to shift to the left
+		Differentiating a product almost always increases the cost of production
+			Also decreases size of target market
+			Most firms attempt to produce a product that is just slightly differentiated from competition
+		Excess capacity:
+			Forms in monopolistic competition produce a quantity of output at which they do not minimize ATC
+				Demand curve insersects ATC curve at a point other than the minimum
+			Part of their manufacturing potential is not utilized
+		The primary way to increase profit in monopolistic competition is to identify why customers like your product and advertise
+			to shift the demand curve to the right, not cutting price
+			
+	Oligopoly:
+		Assumptions:
+			Significant barriers to entry and exit
+			Several sellers and many buyers. 
+			Product can be either homogenous or differentiated. 
+			All firms are independent upon one another; each firm's actions affect the others 
+		4 and 8 firm concentration ratios: the percentage of the market controlled by the 4 or 8 largest firms
+			Government monitors concentration ratios to watch for oligopolies approaching monopoly. 
+		Cartel Theory: group of companies makes an agreement to operate as a single unit. 
+			Becomes similar to a monopoly and allows all firms to earn economic profits instead of normal profits. 
+			Often works best if your product is a scarce natural resource. 
+			These agreements are often extremely difficult to forge and maintain. Companies or countries rarely have identical desires and will willingly stab each other in the back. 
+		Prisoner's Dilemma: how will people behave when placed in a situation where their choices effect both themselves and another person (and vice versa)? 
+			In general, people (and firms) will usually make the choice that, in a vacuum, is the best for themselves 
+		Cartels will produce the quantity that minimizes marginal cost, thereby creating economic profit. 
+		A single cheater can produce a much greater quantity while still selling at the cartel price, greatly increasing their profits. 
+			If one cheats, they make a lot of money, if they all cheat, no one makes any profit. 
+		Cartels adjust price to alter and exploit market demand.
+	
+Ch. 26: Government Regulation & Restrictions. February 22, 2013
+Pertains largely to oligopolies moving towards monopoly 
+	Businesses like monopoly, government likes perfect competition 
+How concentrated should government allow a market to become 
+	Traditionally, Republicans have been more friendly to big business than Democrats 
+Recently, Democrats have been conflicted because they like strong labor unions, which are often linked to the strength of large firms 
+Republicans have the opposite conflict 
+Two different viewpoints:
+	Against concentration: results in inefficient resource allocation, is not necessary in most cases due to the size of the market
+	  (more and more true as we have become a global economy since a smaller percentage of the market place ), industrial concentration 
+	  contributes to income inequality, economic power leads to political clout
+	In favor of concentration: companies come to dominate because they sell a superior product or service, composition may be 
+	  underestimated (substitutes that aren't classified identically), if we don't allow U.S. Companies can't compete with foreign 
+	  companies, large size promotes new technology development (R&D) 
+	With the threat of outsourcing, breaking up powerful firms can result in job loss to foreign countries 
+Anti-trust regularation has been relatively weak in recent years (despite Democratic government) due to the threat of foreign competition
+Legislation:
+	The Sherman Act (1890) contained 2 primary clauses; it was very vague and is typically considered to be too general to be of any use
+	The Clayton Act and the Federal Trade Commission Act were attempts to give the Sherman Act teeth and focus on specific, enforceable things
+		Price discrimination when price difference is not related to a change in costs (not done away with)
+		Exclusive dealing (requiring retailers to not carry any substitutes for your product)
+		Tying contract - making the price of one product tied to the purchase of another product
+		Acquisition of competing company's stock, if such acquisition reduces competition
+		Interlocking {something} - One person sitting on the board of directors for multiple companies
+	Robinson-Pattman Act - The chain store act
+		Illegal for businesses to offer discounts to chain stores (significant issue in the 1930s)
+		Didn't really make much of a difference, because it's still perfectly acceptable to price discriminite via quantity.
+	Other acts tightened up merger laws and legislated false advertising
+Broad vs. Specific Market:
+	ALCOA was legislated because their market was defined specifically as aluminum (instead of metals)
+	Dupont escaped legislation because their market was defined as flexible wrapping materials instead of cellophane
+	McKee Foods used to be McKee Baking Company; they changed names and expanded production to shift to a smaller share of overall market
+Herfindahl Index:
+	Square the percent market square of each firm and find the sum
+		ex. 15^2+13^2+10^2+6^2
+	How do they use it?
+		< 1000 means that the market is typically unconcentrated and they won't bother it
+		1000 < x < 1800 means that the market is moderately concentrated; contest merger is it would raise index by more than 100
+		> 1800 means the the market is concentrated; challenge if index is raised by more than 50-100 points by the merger
+		Note: challenge does not mean block.
+		All firms with less than 1% market share are grouped together
+		Herfindahl index is usually applied to concentrated markets
+Horizontal vs Vertical Mergor
+	A horizontal merger occurs when two firms in the same market merge (aka Ford merging with General Motors)
+	A vertical merger occurs between firms in different stages of the manufacturing process (ex. Ford and Goodyear tire company)
+
+Ch. 27: Factor Markets: Emphasis on the Labor Market. March 11, 2013
+	Factor markets have become much more difficult to understand as our economy has shifted to be service and information based.
+		For example, how many flight attendants should be placed on each airline?
+		Microsoft releases a new major software product, how many tech support people should they hire?
+		How many tellers/cashiers should a bank or store supply?
+		Difficult to determine the balance between cost and revenue of labor.
+	Marginal Revenue Product (MRP)
+		The additional revenue generated by employing an additional factor unit
+		Method 1: MRP = (delta)TR/(delta)Quantity of the Factor
+		Method 2: MR * MPP 	(Marginal Revenue * Marginal Physical Product)
+		MRP Curve = Factor Demand Curve, downward sloping curve (corresponds to product demand curve)
+		MRP can become negative.
+		Very difficult to determine the optimum amount of labor to purchase.
+	Value Marginal Product
+		VMP = P * MPP
+		Just like MRP, the VMP curve is downward sloping.
+		In perfect competition, VMP = MRP
+			Since MR = Price
+		In all non-perfect markets, VMP > MRP
+			Since MR < Price
+	Price Searchers vs. Price Takers
+		Since most businesses are not in perfect competition, most firms are product price searchers (product price takers are the exception)
+		However, most firms are factor price takers (factor price searchers are the exception)
+			Wal-Mart has hired thousands upon thousands of workers without driving up the cost of labor.
+			Factor price searchers usually only exist when the firm has a massive demand for labor in one small location - drives demand for labor up.
+			This is part of the reason for dispersed labor demand
+		Marginal Factor Cost (MFC) curve for a single firm is almost always a flat line.
+			market MFC curve is upward sloping (this means that it is upward sloping for a monopsonist)
+	Equating MRP and MFC
+		Firm will continue hiring labor until the MRP curve falls below the MFC curve
+	Businesses maximize utility from various factors by equalizing the MRP of multiple factors. (Least cost rule)
+	Movement regarding the MRP curve
+		If the cost of the factor changes, we move up or down the current curve
+		Any other changes causes a SHIFT of the curve
+		Shifts increase the quantity of labor, but do not increase wages, since nearly all firms are factor price takers.
+	Elastificy of demand for labor
+		Labor elasticify is directly related to product elasticify of demand
+		If labor cost is a small percentage of total cost, labor will be more inelastic (and vice versa)
+		The more substitutes available for a factor, the higher will be the factor's elasticity
+		Sensitivity to the cost of a factor increases elasticity
+			Elasticity increases if labor can be outsourced
+	Market supply of Labor:
+		Upward sloping supply curve - more labor available at higher wage rates.
+	Wage Rate Equalization Across Labor Markets
+		Across comparable markets, workers will move to higher pay rate market, causing rightward supply shift there and leftward supply curve shift in lower-pay market
+			Stops when wages equalize
+	Assumptions regarding labor
+		Nonpecuniary (wage) aspects of labor
+		Demand for all types of labor is the same
+		Labor can relocate at no cost
+		No cost to train new labor
+	Marginal Productivity Theory: Firms in competitive factor markets pay factors their marginal revenue product
+	
+Ch. 28: Labor Unions & Their Effect on the Labor Market (3/18/13)
+	Labor Unions pursue 1 of 3 goals:
+		Employment of all members
+			Must usually accept low wages in order to achieve complete employment.
+		Maximizing total wage bill
+			Wage bill = total amount of money coming from firm to employees
+			Occurs in the middle of the labor demand curve
+		Maximizing wages to some of the union membors
+			Low total employment, but high wages.
+		Some economists claim that unions' actual goal is to maximize their revenue from membership dues.
+	The wage-employment tradeoff
+		Usually, any increase in labor quantity results in a decrease in wages (and vice versa)
+		If demand for labor is inelastic, the gain in employment outweighs the loss in wages
+		If demand for labor is elastic, the gain in employment is outweighed by the loss in wages
+	Manufacturing has long been a union stronghold
+		Shift to service & information has weakened this hold
+		Many manufacturing jobs have outsourced to find cheap labor, especially when unions pushed wages in the U.S. too high
+			Foreign labor is a substitute for local labor and increases elasticity
+			Huge capital investments make it much more difficult for firms to outsource, so not all manufacturing industries are equal in this regard
+	Striking
+		Unions have more leverage if substitutes for their labor are not available
+		Unions have more leverage if their strike threatens contract dates or deadlines (puts extra pressure on the company)
+	Labor Unions attempt to influence the elasticity of demand for labor (want to make inelastic)
+		Attempt to limit availability of substitute goods
+			Produced by non-union, often foreign, labor
+			Unions have very little power if they cannot affect the supply of labor.
+		Attempt to limit availability of substitute factors
+			If a strike is the result of economic demands (more money), the firm can replace it's union labor with non-union labors
+			Unions obviously don't like this
+			Unions are currently hesitant to strike for more money because of high unemployment (lots of available labor for the firm) and outsourcing.
+			Increasing prices of substitute factors
+				Increase minimum wage (nonunion labor is often paid minimum wage)
+		Attempt to increase demand for union labor
+			Increase product demand through the use of union labels on products, etc.
+			Closed Shop: firms must higher only union members
+				Illegal in the united states
+			Union Shop: firms must require employees to join union within a certain time period after being hired
+				Exists in non-right to work states
+			Open shop: no requirements for union memberships
+				Right to work states
+			Many firms refuse to open plants in non-right to work states
+				McKee Foods is an example
+		Collective bargaining: unions negotiate with firms on the behalf of all of their union members
+		How do unions view themselves?
+			A monopsony is a single buyer in a factor market (buyer version of monopoly)
+			Just like monopolists have to lower price to sell more of a product, a monopsony must raise the amount that they pay in order to purchase more of a factor
+				Factor price searcher
+				MFC curve lies above supply curve
+			Monopsonists buy the quantity of labor at which MFC = MRP and pay the wage rate corrosponding to that point on the supply curve, rather than the MRP curve
+				Labor unions claim that the monopsonist is exploiting workers by paying them less than their MRP
+				The union gives the firm a  flat supply curve
+					Increased wages for workers
+					MFC = S'
+					Firm will purchase a higher quantity of labor (until MFC = S' = MRP)
+	The effect of unions on wages:
+		Unions typically increrase wages for union employees and decrease wages for nonunion labor
+			Increase in union wages reduces number of employees hired in union sector, which increases the supply of labor to the nonunion sector
+
+The Distribution of Income & Poverty (March 22 2013)
+	The most controversial topic in this area is the redistribution of income through progressive taxation and social welfare programs.
+		Opposition (typically conservative):
+			Freedom of contract - the ability to sell labor and receive some financial reward, government takes some of that away to distribute to others
+			Freedom of property - Government confiscates financial property to give it to others, diminishes  the incentive to invest in that property is diminished
+			Welfare/Transfer programs interfere with the incentives provided by the market
+				This effects both givers and receivers
+	Who are the rich & poor?
+		Divide all households into quintiles by income
+		Top quintiles is 'rich'
+		Bottom quintiles is 'poor'
+		US has strong upward income mobility
+			Availability of education plays a major role
+		Income increases with age (until late in life)
+		Households headed by people under 25 are more likely to have low income
+		Usually, the more education there is in an economy, the more income inequality exists
+	Government as Robin Hood
+		Government takes from the rich and gives to the poor
+			These transfer payments usually have strings attached (can only be used for specific things, etc)
+		Theory: transfers benefit the poor more than they hurt the rich
+			Results in overall gain of utility in the economy
+				However, the conditions that the government places on its transfer payments decrease their utility
+			This relies upon the (not strongly supported) idea of interpersonal utility comparisons
+	A Simple Equation:
+		Individual income = labor income + asset income + transfer payments - taxes
+			Labor income is equal to the wage rate an individual receives multiplied by the number of hours worked
+			Asset income consists of such things as the return on savings, the return to capital investment, and the return to land
+			Transfer payments are payments to persons that are not made in return for goods and services provided (social security, welfare assistance)
+			Finally, from the sum of labor income, asset income, and transfer payments, we subtract taxes to see what is left (individual income)
+	Lorenz Curve
+		Graphs cumulative percentage of income (y) against cumulative percentage of households (x)
+		Perfect income equality occurs when it is a 45 degree line
+			The further the actual curve is from 45 degrees, the more inequality exists
+		The Genie (sp?) Coefficient is the result of dividing the area between the perfect equality line and the Lorenz curve by the total area under the perfect equality line
+			0 if perfectly equal
+			1 if perfectly inequal
+		The Lorenz curve does NOT allow for inter-country comparisons
+		The US is a good place to be 'impovrished'
+	What is Poverty?
+		Can be defined in absolute or relative terms
+			the U.S. government uses an absolute measurement
+
+Interest, Rent, and Profit: (March 29, 2013)
+Interest:
+	Loanable funds are the result of savings. 
+	If the supply of loanable funds increases, the supply shifts to the right and interest rates decrease 
+	In the United States, inflation due to the government printing money willy nilly has pushed interest rates down 
+		Some claim the the savings of Baby Boomers is the actual source of the problem 
+	Consumers demand loanable funds because they have a positive rate of time preference 
+		They want things sooner rather than later 
+		This is true for nearly everyone, people differ with respect to the strength of their preference 
+	The interest rate is the equilibrium point of supply of and demand for loanable funds 
+	Pension funds in the US economy are riding on a bubble because they've been counting on much higher interest rates than they're now receiving 
+
+Companies often use a roundabout method of production 
+	Produce or obtain capital equipment then begin to produce their product 
+	Interest rate return on capital investment often makes this approach more rewarding than a direct approach in which capital investment is eschewed 
+	US foreign aid often takes the form of loans to countries or individuals meant to encourage capital investment 
+	Unfortunately, we usually give them the fish instead of the fishing net. We need to give them the capital equipment to enable them to increase their productivity 
+
+The price for loanable funds and the return on capital investments tends towards equality 
+	If return on capital is higher, people will borrow more money to invest, thereby increasing demand for loanable funds and subsequently, interest rates 
+	Companies will often rank opportunities for investment based on ROI
+	Hurdle rate: minimum interest rate that is lower than the highest ROI rate
+	The government often pushes down interest rates during a recession to encourage companies to take loans to expand/invest
+		Unfortunately, investments in capital often result in less demand for labor, increasing unemployment & decreasing wages
+		If rates are pushed too low, banks are likely to simply refuse to make loans (risk outweighs reward)
+	
+Why do interest rates differ? 
+	Risk: Higher risk -> higher interest
+	Cost of making loan: administrative overhead results in prohibitive overhead (especially for large institutions), so banks cannot viably make small loans 
+	Term of loan: The longer the term, the higher the interest (usually)
+	Inflation: Higher inflation rates -> higher interest rates
+
+Real vs. Nominal Interest Rates:
+	Real interest is the current rate
+	Nominal interest is what you'll be forced to pay for a loan, based on real interest & inflation
+	If the real interest rate is 4% and the inflation rate is 3%, then the nominal interest rate is 7%
+	RI = 4%, 1% IR, NIR = 5%
+	The government could equallize real and nominal interest rates by sending a signal that inflation will not be tolerated
+	
+Yield curve is effectively a representation of what state people believe the economy will be in in the future
+	Upward -> good
+	Down -> bad
+
+Present value calculations:
+	Present value tells how much a quantity of future money is worth now
+		Based on expected interest rates and the amount of time
+		
+Rent and Profit:
+	Economic rent is payment is excess of opportunity cost
+		If the supply curve is fixed, then price depends only on demand
+		Pure if no opportunity cost
+		
+Chapter 31: Market Failures (April 5 2013)
+Usually, the private market does the best job of selecting quantities and prices for goods for the maximum efficiency.
+	However, there are three cases in which case the market fails to maximize efficiency
+	Environmental markets, Public goods, Unequal information
+	
+Environmental economics and externalties:
+	Diminishing marginal utility - people consume goods until their untility falls below the cost
+		Price and cost send signals that prevent under/over consumption & production
+		If these signals are tampered with, problems result
+	(Negative) externalities are actions that result in costs being imposed on an independent third party
+		Air pollution, noise polution, other forms of pollution
+		Results in overcunsumption of natural resources
+	If companies don't recognize all costs related to the production of a good, they will produce a quantity above the socially optimal output.
+Negative externalities become more pronounced in areas of higher population density
+Internalizing Externalties:
+	Taxing & Subsidies
+		If we have negative externalities (unrecognized costs) the govenment can approximate an appropriate dollar cost and apply it to the product
+			government is notorious for miscalculating and moving the output level even farther from socially optimal point
+		Subsidies are similar, but applied to positive externalties
+	
+	Assigning property rights:
+		Pollution is often a problem because no one owns air/water
+		Government can assign businesses responsibility for caring for resources that they utilize & value
+	
+	Property Rights combined with Voluntary Agreements
+		Coast Theory: In the case of zero or trivial transaction costs, the property rights assignments do not affect resource distribution
+			Private sector handles distribution
+			Deregulation benefits the market in most situations
+Public Goods:
+All goods:
+	Private goods are rivalrous	
+		If one person consumes, no one else can
+	Public goods are non-rivalrous
+		Consumption by one person does not prevent consumption by others
+		Can be excludable or non-excludable
+		People can be prevented from enjoying excludable goods
+			College classes, movie theaters, plays
+		Nonexcludable goods provide blanket benefits
+			National defense
+			Flood control
+			Open radio stations
+			Public TV
+	Because of the free rider problem (with nonexcludable public goods), the market will often fail to produce them or fail to produce sufficicient quantities
+
+Asymmetric (Unequal) Information
+	Occurs when buyers and sellers have (significantly) differing levels of information
+		Can occur in both product and factor markets
+		In MOST situations, the seller has more information than the buyer
+	Used car dealers purchase cars in a symmetric market and resell in an assymetric market for a profit
+	Very rarely, buyers are on the winning side of the deal
+		Buy a painting cheaply at a garage sale, resold for millions
+	
+	In a Factor Market:
+		Misinformation/exaggeration of perks, excitingness, and other non-pecuniary aspects of a job lead to lower wage rates
+			Only knowing the good things, none of the bad
+
+Public Choice & Politics (April 15, 2013)
+	Much of the pioneering research in this area was conducted by James Buchannan (not the president)
+	Public Choice Theory - People's behavior is solely the result of comparisons of costs & benefits
+	People are not Dr.Jeckyl/Mr Hyde
+		Nature doesn't change in different circumstances -- behavior may change, but only as a result of changes to costs & benefits
+		
+	Median Voter Theorem
+		Voters prefer the candidate that is closest to their viewpoint
+		In a 2-party system, candidates will gravitate towards the middle of the spectrum
+			capture the maximum number of voters
+		Predictions:
+			Candidates will labor their opponents as being too extreme
+	
+	Simple Majority Voting
+		Votes may pass when not socially optimal
+			More people support, even if there is less measureable support than not.
+		Can't convey strength of support/disagreement through simple votes.
+		
+Ch. 34: Free Trade (April 17, 2013)
+	Trade = imports & exports
+	International trade is a massive and vital part of the economy of our lives
+		A vast majority of the goods we use were produced outside of the U.S.
+		Brock Hall funded by Brock candy company and McKee foods, who bought large amounts of sugar from foreign countries
+			Companies teamed up, Brock funded Southern as thanks for cost advantage
+	As individuals, we export time, skills, etc, and import goods & services
+	The US operates in a trade deficit
+		We import more goods than we import
+		Not necessarily a bad thing - improves quality of life
+		Only bad if it gets out of control
+	Choosing what to produce:
+		Countries produce various quantities of goods based on opportunity costs & the production possibilities frontier
+			Comparative advantage: lower opportunity cost to produce a good
+			
+	International trade allows all countries involved to consume more than they're capable of producing individually
+	
+	Consumers' and Producers' Surplus
+		The higher one is, the lower the other will be.
+		In the US, goods are cheap (high consumer surplus) and corporations (some) are struggling
+			Japan is the opposite
+	
+	Costs & Benefits of Trade Restrictions
+		Tariffs (Definitely a graph problem on the test):
+			
